@@ -8,4 +8,4 @@ que son solicitados con diferentes fines.
 realizar cualquier tipo de solicitud, se debe recurrir a este sitio. Cuando se da una salida de
 documento desde el depósito, se registra la siguiente información: i) usuario responsable del
 depósito; ii) hora de salida; iii) usuario que solicita (puede ser para cualquiera de los 5 posibles
-destinos); iv) documento (sección1, volumen2, número3)4. 2
+destinos); iv) documento (sección1, volumen2, número3)4. 2 55
